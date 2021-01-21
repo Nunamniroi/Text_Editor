@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\2020_11_18_Text_Editor\2020_11_18_Text_Editor\obj\Debug\2020_11_18_Text_Editor.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\2020_11_18_Text_Editor\2020_11_18_Text_Editor\obj\Debug\_2020_11_18_Text_Editor.MainForm.resources
+C:\Users\andre\source\repos\2020_11_18_Text_Editor\2020_11_18_Text_Editor\obj\Debug\_2020_11_18_Text_Editor.Properties.Resources.resources
+C:\Users\andre\source\repos\2020_11_18_Text_Editor\2020_11_18_Text_Editor\obj\Debug\2020_11_18_Text_Editor.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\2020_11_18_Text_Editor\2020_11_18_Text_Editor\obj\Debug\2020_11_18_Text_Editor.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\2020_11_18_Text_Editor\2020_11_18_Text_Editor\bin\Debug\2020_11_18_Text_Editor.exe.config
+C:\Users\andre\source\repos\2020_11_18_Text_Editor\2020_11_18_Text_Editor\bin\Debug\2020_11_18_Text_Editor.exe
+C:\Users\andre\source\repos\2020_11_18_Text_Editor\2020_11_18_Text_Editor\bin\Debug\2020_11_18_Text_Editor.pdb
+C:\Users\andre\source\repos\2020_11_18_Text_Editor\2020_11_18_Text_Editor\obj\Debug\2020_11_18_Text_Editor.exe
+C:\Users\andre\source\repos\2020_11_18_Text_Editor\2020_11_18_Text_Editor\obj\Debug\2020_11_18_Text_Editor.pdb
